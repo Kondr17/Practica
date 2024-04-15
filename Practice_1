@@ -20,7 +20,7 @@ import java.util.Vector;
 
 /**
  *
- * @author paul.oamen
+ * @author Egor.Kondratyev
  */
 public class StudentDBMysql extends javax.swing.JFrame {
     
